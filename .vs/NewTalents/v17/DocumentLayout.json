@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alber\\source\\repos\\NewTalents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C08C7FD7-1B3D-41DE-828B-0079E44B4F74}|NewTalents.csproj|c:\\users\\alber\\source\\repos\\newtalents\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08C7FD7-1B3D-41DE-828B-0079E44B4F74}|NewTalents.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BE3BA1-2E90-4310-9F4E-4ECF35EF2A46}|..\\TestNewTalents\\TestNewTalents.csproj|c:\\users\\alber\\source\\repos\\testnewtalents\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08C7FD7-1B3D-41DE-828B-0079E44B4F74}|NewTalents.csproj|c:\\users\\alber\\source\\repos\\newtalents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08C7FD7-1B3D-41DE-828B-0079E44B4F74}|NewTalents.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BE3BA1-2E90-4310-9F4E-4ECF35EF2A46}|..\\TestNewTalents\\TestNewTalents.csproj|c:\\users\\alber\\source\\repos\\testnewtalents\\testnewtalents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestNewTalents",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\TestNewTalents\\TestNewTalents.csproj",
+              "RelativeDocumentMoniker": "..\\TestNewTalents\\TestNewTalents.csproj",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\TestNewTalents\\TestNewTalents.csproj",
+              "RelativeToolTip": "..\\TestNewTalents\\TestNewTalents.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-14T05:48:06.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\NewTalents\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\NewTalents\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T05:45:44.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\TestNewTalents\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestNewTalents\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\TestNewTalents\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestNewTalents\\UnitTest1.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwBoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T05:43:09.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\NewTalents\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\NewTalents\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T05:39:58.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 {
   "version": 3,
   "targets": {
+<<<<<<< HEAD
     "net8.0": {
       "coverlet.collector/6.0.0": {
         "type": "package",
@@ -5522,6 +5523,13 @@
       "xunit >= 2.5.3",
       "xunit.runner.visualstudio >= 2.5.3"
     ]
+=======
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+>>>>>>> f03e794d6635a590001b06a15c8b2de84d69a484
   },
   "packageFolders": {
     "C:\\Users\\alber\\.nuget\\packages\\": {}
@@ -5529,11 +5537,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\alber\\source\\repos\\TestNewTalents\\TestNewTalents.csproj",
       "projectName": "TestNewTalents",
       "projectPath": "C:\\Users\\alber\\source\\repos\\TestNewTalents\\TestNewTalents.csproj",
       "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\alber\\source\\repos\\TestNewTalents\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\alber\\source\\repos\\NewTalents\\NewTalents.csproj",
+      "projectName": "NewTalents",
+      "projectPath": "C:\\Users\\alber\\source\\repos\\NewTalents\\NewTalents.csproj",
+      "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alber\\source\\repos\\NewTalents\\obj\\",
+>>>>>>> f03e794d6635a590001b06a15c8b2de84d69a484
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alber\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5549,11 +5565,15 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+<<<<<<< HEAD
           "projectReferences": {
             "C:\\Users\\alber\\source\\repos\\NewTalents\\NewTalents.csproj": {
               "projectPath": "C:\\Users\\alber\\source\\repos\\NewTalents\\NewTalents.csproj"
             }
           }
+=======
+          "projectReferences": {}
+>>>>>>> f03e794d6635a590001b06a15c8b2de84d69a484
         }
       },
       "warningProperties": {
@@ -5570,6 +5590,7 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+<<<<<<< HEAD
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -5588,6 +5609,8 @@
             "version": "[2.5.3, )"
           }
         },
+=======
+>>>>>>> f03e794d6635a590001b06a15c8b2de84d69a484
         "imports": [
           "net461",
           "net462",

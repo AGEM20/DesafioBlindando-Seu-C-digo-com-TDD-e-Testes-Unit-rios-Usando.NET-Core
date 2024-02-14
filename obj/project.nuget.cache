@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "6EvatQSOcsLytd3VlhTcxE2NnIjG9F8HCjsQiDNkRX1NQmRoozx58I8H87nfE6L6ujLpQ3K1vhtKhQ4USwDrWw==",
   "success": true,
   "projectFilePath": "C:\\Users\\alber\\source\\repos\\TestNewTalents\\TestNewTalents.csproj",
@@ -94,5 +95,11 @@
     "C:\\Users\\alber\\.nuget\\packages\\xunit.extensibility.execution\\2.5.3\\xunit.extensibility.execution.2.5.3.nupkg.sha512",
     "C:\\Users\\alber\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.3\\xunit.runner.visualstudio.2.5.3.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "tvS3pgmmvIO80+6sO5FXRrEbwntwhMw4YiNHnm3tsP8E1sEtoIfUE+k3K2SOGMXlAf7vDR/qvKQdNzr+x/aw2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alber\\source\\repos\\NewTalents\\NewTalents.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> f03e794d6635a590001b06a15c8b2de84d69a484
   "logs": []
 }
